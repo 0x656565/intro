@@ -1,3 +1,3 @@
 # Intro
-## homework in class
+### homework in class
 ### modify from html5up template
